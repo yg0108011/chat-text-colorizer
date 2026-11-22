@@ -231,7 +231,7 @@ function buildGlowFilter(colorA, colorB, intensity) {
     const blur1 = Math.round(3 * factor);
     const blur2 = Math.round(8 * factor);
 
-    return `drop-shadow(0 0 ${blur1}px rgba(${r1},${g1},${b1},${newA1.toFixed(2)})) drop-shadow(0 0 ${blur2}px rgba(${r2},${g2},${b2},${newA2.toFixed(2)})`;
+    return `drop-shadow(0 0 ${blur1}px rgba(${r1},${g1},${b1},${newA1.toFixed(2)})) drop-shadow(0 0 ${blur2}px rgba(${r2},${g2},${b2},${newA2.toFixed(2)}))`;
 }
 
 /**
