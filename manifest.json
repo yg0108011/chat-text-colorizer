@@ -1,0 +1,12 @@
+{
+    "display_name": "Chat Text Colorizer",
+    "loading_order": 100,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "",
+    "author": "SillyTavern Community",
+    "version": "1.0.0",
+    "homePage": "https://github.com/user/chat-text-colorizer",
+    "description": "酒馆聊天消息文字颜色自定义扩展：支持主文本、斜体文本、引用文本的独立调色，内置雨夜回响预设配色，支持纯色/渐变/光晕。"
+}
